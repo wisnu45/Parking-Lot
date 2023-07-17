@@ -1,0 +1,19 @@
+{
+    "name": "parking-lot",
+    "version": "1.0.0",
+    "description": "Simple Project that simulate a little parking lot using ES6 Javascript and manipulate LocalStorage!",
+    "main": "core.js",
+    "scripts": {
+        "test": "node core.js"
+    },
+    "author": "wisnu",
+    "license": "ISC",
+    "dependencies": {
+        "car": "^0.2.0",
+        "dom-loaded": "^3.0.0",
+        "license-plate": "^2.2.0",
+        "outdated": "^0.1.1",
+        "owner": "^0.1.0",
+        "swiftmessageparser": "^1.2.1"
+    }
+}
